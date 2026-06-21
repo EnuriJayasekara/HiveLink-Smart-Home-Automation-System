@@ -41,3 +41,41 @@ Using the Blynk IoT mobile application, users can monitor real-time temperature,
 -  Remote Light Control: Allows users to remotely turn ON or OFF the home lighting system from anywhere using the Blynk mobile application over a Wi-Fi connection.
 
 -  LCD Real-Time Display: Displays temperature, humidity, gas values, fan status, light status, and gas safety alerts directly on the LCD screen for quick local monitoring.
+
+---
+
+
+---
+## 📸 Project Gallery
+
+### 🏠 Smart Home Overview
+
+| Complete Smart Home Model | Rooftop Garden & Lighting |
+|:-------------------------:|:-------------------------:|
+| <img src="images/Project-HiveLink.jpeg" width="420"> | <img src="images/Rooftop-Lights.jpeg" width="420"> |
+
+---
+
+### 💡 Smart Lighting & Security
+
+| App Controlled Lights | Fence Lights, RFID & Ultrasonic |
+|:---------------------:|:-------------------------------:|
+| <img src="images/App-controlled-Lights.jpeg" width="420"> | <img src="images/FenceLights-RFID-UltraSonic.jpeg" width="420"> |
+
+---
+
+### 🌡 Environment Control
+
+| DHT11 , 12V DC Fan System and MQ5 - Buzzer | LCD Display |
+|:-----------------:|:-----------:|
+| <img src="images/12v DC-fan.jpeg" width="420"> | <img src="images/LCD-Dispaly.jpeg" width="420"> |
+
+---
+
+### 📱 Blynk IoT Mobile Dashboard
+
+| Blynk IoT Mobile Dashboard |
+|:--------------------------:|
+| <img src="images/Blynk-IoT.jpeg" width="350"> |
+
+---
