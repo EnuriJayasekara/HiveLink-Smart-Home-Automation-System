@@ -47,6 +47,7 @@ Using the Blynk IoT mobile application, users can monitor real-time temperature,
 
 ---
 ## 📸 Project Gallery
+### 🛠 Hardware Implementation
 
 ### 🏠 Smart Home Overview
 
@@ -79,3 +80,18 @@ Using the Blynk IoT mobile application, users can monitor real-time temperature,
 | <img src="images/Blynk-IoT.jpeg" width="350"> |
 
 ---
+### 🔧 System Internals
+
+| DHT11 Temperature & Humidity | MQ-5 Gas Detection | Ultrasonic & LDR Module |
+|:----------------------------:|:------------------:|:-----------------------:|
+| <img src="images/DHT11-hardware.jpeg" width="280"> | <img src="images/MQ5-hardware.jpeg" width="280"> | <img src="images/Ultrasonic-LDR-hardware.jpeg" width="280"> |
+
+---
+## 🛠 Hardware Components
+
+- **Microcontrollers:** ESP32 DevKit V1, Arduino Uno
+- **Sensors:** DHT11, MQ-5, LDR Module, Ultrasonic Sensor (HC-SR04), RFID Module (RC522)
+- **Actuators:** 12V DC Fan, Relay Module, Active Buzzer
+- **Displays & Indicators:** 16x2 LCD Display, LED Lights
+- **Communication:** Wi-Fi (ESP32), Blynk IoT Platform
+- **Power Supply:** USB Power Bank / 5V DC Supply
