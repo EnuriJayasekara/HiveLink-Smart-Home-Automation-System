@@ -174,3 +174,16 @@ This design minimizes power interference and improves system reliability.
   </tr>
 
 </table>
+
+---
+
+## 📁 Documentation
+
+Access the complete project documents below:
+
+- [ Project Proposal](Project%20Proposal%20Y1S1%20Mtr2.pdf)
+- [ Progress Report](IT1140%20-%20Progress%20report-Mtr02.pdf)
+- [ User Manual](HiveLink_User_Manual.pdf)
+
+---
+
