@@ -95,3 +95,82 @@ Using the Blynk IoT mobile application, users can monitor real-time temperature,
 - **Displays & Indicators:** 16x2 LCD Display, LED Lights
 - **Communication:** Wi-Fi (ESP32), Blynk IoT Platform
 - **Power Supply:** USB Power Bank / 5V DC Supply
+
+---
+## 🏗 System Architecture
+
+### Overall System Architecture
+
+<p align="center">
+  <img src="images/System-diagram.jpg" width="850">
+</p>
+
+This diagram illustrates the interaction between the ESP32, Arduino Uno, sensors, actuators, and the Blynk IoT platform within the HiveLink Smart Home Automation System.
+
+---
+
+### Internal Circuit Connections
+
+<p align="center">
+  <img src="images/System-diagram-internal.jpg" width="850">
+</p>
+
+This diagram presents the detailed internal wiring connections of the ESP32 and Arduino Uno, including DHT11, MQ-5 Gas Sensor, RFID RC522, LCD Display, LDR Module, Ultrasonic Sensor, Relay Module, 12V DC Fan, Indoor Lights, and Buzzers.
+
+### Power Management
+
+The HiveLink Smart Home Automation System uses separate power supplies for the ESP32 and Arduino Uno to ensure stable performance.
+
+1. **ESP32 Unit:** Controls DHT11, MQ-5, RFID, LCD, relay, indoor lights, fan, and gas alert buzzer.
+
+2. **Arduino Uno Unit:** Controls the LDR module, Ultrasonic sensor, fence lights, rooftop lights, and parking buzzer.
+
+This design minimizes power interference and improves system reliability.
+
+---
+<h2>👥 Team Members & Responsibilities (Y1S1Mtr2)</h2>
+
+<table>
+  <tr>
+    <th>IT Number</th>
+    <th>Name</th>
+    <th>Primary Responsibility</th>
+    <th>Key Contributions</th>
+  </tr>
+
+  <tr>
+    <td><b>IT25102735</b></td>
+    <td>Jayasekara E.O.</td>
+    <td>Temperature Monitoring System</td>
+    <td>DHT11 temperature and humidity monitoring, 12V DC fan control using relay module, and LCD display for real-time environmental data.</td>
+  </tr>
+
+  <tr>
+    <td><b>IT25102198</b></td>
+    <td>Nisanka P.G.U.</td>
+    <td>Smart Security & Parking System</td>
+    <td>RFID card authentication, door access control, ultrasonic sensor integration, and parking assistance alerts.</td>
+  </tr>
+
+  <tr>
+    <td><b>IT25102205</b></td>
+    <td>Hewamana Y.C.K.</td>
+    <td>Gas Detection & Safety</td>
+    <td>MQ-5 gas sensor integration, gas level monitoring, and gas alert buzzer system.</td>
+  </tr>
+
+  <tr>
+    <td><b>IT25102657</b></td>
+    <td>Thirasara K.W.D.D.</td>
+    <td>Smart Lighting System</td>
+    <td>LDR-based fence and rooftop lights, indoor smart lights, and Blynk IoT application control.</td>
+  </tr>
+
+  <tr>
+    <td><b>IT25102894</b></td>
+    <td>Wijesinghe Y.N.</td>
+    <td>System Architecture</td>
+    <td>Designed system architecture, circuit diagrams, integration of ESP32 and Arduino Uno, and overall system coordination.</td>
+  </tr>
+
+</table>
