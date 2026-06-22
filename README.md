@@ -217,7 +217,7 @@ Access the complete project documents below:
 
 ## 👨‍💻 Project Lead
 
-**Enuri Jayasekara**  
+**EnuriJayasekara**  
 Group Leader | IoT Developer | System Integrator
 
 ---
