@@ -4,7 +4,7 @@
 
 ![HiveLink Banner](images/HiveLink-Banner.png)
 
-HiveLink is an intelligent IoT-based Smart Home Automation and Safety System designed to improve home security, convenience, and energy efficiency. The system integrates Arduino Uno and ESP32 microcontrollers to automate lighting, garage parking assistance, RFID-based door access, gas leak detection, and environmental monitoring. Through the Blynk IoT platform, users can monitor sensor values and remotely control selected home devices in real time.
+HiveLink is an IoT-based Smart Home Automation System developed using **ESP32** and **Arduino Uno**. The system provides **RFID door access, gas leak detection, temperature & humidity monitoring, automatic fan control, smart lighting, parking assistance**, and **remote monitoring through the Blynk IoT app**.
 
 ---
 
