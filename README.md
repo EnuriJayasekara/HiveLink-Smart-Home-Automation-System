@@ -172,6 +172,13 @@ This design minimizes power interference and improves system reliability.
 </table>
 
 ---
+## 💻 Source Code
+
+- Arduino Uno Controller: [Arduino_Uno.ino](code/Arduino_Uno.ino)
+- ESP32 Main Controller: [ESP32_Main.ino](code/ESP32_Main.ino)
+- ESP32 RFID Module: [ESP32_RFID.ino](code/ESP32_RFID.ino)
+
+---
 
 ## 📁 Documentation
 
