@@ -138,35 +138,35 @@ This design minimizes power interference and improves system reliability.
     <td><b>IT25102735</b></td>
     <td>Jayasekara E.O.</td>
     <td>Temperature Monitoring System</td>
-    <td>DHT11 temperature and humidity monitoring, 12V DC fan control using relay module, and LCD display for real-time environmental data.</td>
+    <td>DHT11 temperature & humidity monitoring, 12V DC fan control using relay module, LCD display integration, and system coordination as Group Leader.</td>
   </tr>
 
   <tr>
     <td><b>IT25102198</b></td>
     <td>Nisanka P.G.U.</td>
-    <td> Parking System</td>
-    <td> ultrasonic sensor integration, and parking assistance alerts.</td>
+    <td>Parking System</td>
+    <td>Ultrasonic sensor integration and parking assistance alert system.</td>
   </tr>
 
   <tr>
     <td><b>IT25102205</b></td>
     <td>Hewamana Y.C.K.</td>
-    <td>Gas Detection , Safety  & Smart Security </td>
-    <td>MQ-5 gas sensor integration, gas level monitoring, and gas alert buzzer system.RFID card authentication, door access control</td>
+    <td>Gas Detection, Safety & Smart Security</td>
+    <td>MQ-5 gas sensor integration, gas level monitoring, gas alert buzzer system, RFID card authentication, and door access control.</td>
   </tr>
 
   <tr>
     <td><b>IT25102657</b></td>
     <td>Thirasara K.W.D.D.</td>
-    <td>Smart Lighting System</td>
-    <td>LDR-based fence and rooftop lights, indoor smart lights, and Blynk IoT application control.</td>
+    <td>IoT Mobile Development</td>
+    <td>Developed the Blynk IoT mobile application, implemented app-controlled indoor lighting, and integrated remote monitoring features.</td>
   </tr>
 
   <tr>
     <td><b>IT25102894</b></td>
     <td>Wijesinghe Y.N.</td>
-    <td>System Architecture</td>
-    <td>Designed system architecture, circuit diagrams, integration of ESP32 and Arduino Uno, and overall system coordination.</td>
+    <td>Smart Lighting System</td>
+    <td>Developed LDR-based fence and rooftop lighting with automatic light control based on ambient light intensity.</td>
   </tr>
 
 </table>
