@@ -181,7 +181,38 @@ This design minimizes power interference and improves system reliability.
 
 Access the complete project documents below:
 
-- <a href="./Project_Proposal_Y1S1_Mtr2.pdf">📄 Project Proposal</a>
-- <a href="./IT1140_Progress_Report_Mtr02.pdf">📊 Progress Report</a>
-- <a href="./HiveLink_User_Manual.pdf">📘 User Manual</a>
+- <a href="./Project_Proposal_Y1S1_Mtr2.pdf"> Project Proposal</a>
+- <a href="./IT1140_Progress_Report_Mtr02.pdf"> Progress Report</a>
+- <a href="./HiveLink_User_Manual.pdf"> User Manual</a>
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Install the required libraries:
+   - Blynk
+   - DHT sensor library
+   - MFRC522
+   - LiquidCrystal I2C
+
+2. Configure the Blynk Template ID and Auth Token.
+
+3. Connect all sensors and modules according to the circuit diagram.
+
+4. Upload the code to ESP32 and Arduino Uno using Arduino IDE.
+
+---
+
+## 🔮 Future Enhancements
+
+- Voice assistant integration using Google Assistant or Alexa.
+- Face recognition for secure door access.
+- Real-time energy consumption monitoring.
+- Solar power and battery backup integration.
+
+---
+
+### 📚 Developed For
+
+This project was developed as part of the **IT1140 – Introduction to Computer Systems** module at the **Sri Lanka Institute of Information Technology (SLIIT)**.
 
