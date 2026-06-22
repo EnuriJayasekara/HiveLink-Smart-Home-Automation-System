@@ -144,15 +144,15 @@ This design minimizes power interference and improves system reliability.
   <tr>
     <td><b>IT25102198</b></td>
     <td>Nisanka P.G.U.</td>
-    <td>Smart Security & Parking System</td>
-    <td>RFID card authentication, door access control, ultrasonic sensor integration, and parking assistance alerts.</td>
+    <td> Parking System</td>
+    <td> ultrasonic sensor integration, and parking assistance alerts.</td>
   </tr>
 
   <tr>
     <td><b>IT25102205</b></td>
     <td>Hewamana Y.C.K.</td>
-    <td>Gas Detection & Safety</td>
-    <td>MQ-5 gas sensor integration, gas level monitoring, and gas alert buzzer system.</td>
+    <td>Gas Detection , Safety  & Smart Security </td>
+    <td>MQ-5 gas sensor integration, gas level monitoring, and gas alert buzzer system.RFID card authentication, door access control</td>
   </tr>
 
   <tr>
@@ -210,10 +210,8 @@ Access the complete project documents below:
 
 ## 👨‍💻 Project Lead
 
-**EnuriJayasekara**  
-**Group Leader – Y1S1Mtr02**
-
-Led the design, development, and integration of the HiveLink Smart Home Automation System. Responsible for project coordination, DHT11 temperature & humidity monitoring, automatic 12V DC fan control, LCD display implementation, system integration, testing, and project documentation.
+**Enuri Jayasekara**  
+Group Leader | IoT Developer | System Integrator
 
 ---
 
