@@ -181,9 +181,9 @@ This design minimizes power interference and improves system reliability.
 
 Access the complete project documents below:
 
-- <a href="./Project_Proposal_Y1S1_Mtr2.pdf"> Project Proposal</a>
-- <a href="./IT1140_Progress_Report_Mtr02.pdf"> Progress Report</a>
-- <a href="./HiveLink_User_Manual.pdf"> User Manual</a>
+- [ Project Proposal](docs/Project_Proposal_Y1S1_Mtr2.pdf)
+- [ Progress Report](docs/IT1140_Progress_Report_Mtr02.pdf)
+- [ User Manual](docs/HiveLink_User_Manual.pdf)
 
 ---
 
