@@ -20,25 +20,25 @@ HiveLink is an IoT-based Smart Home Automation System developed using ESP32 and 
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
--  RFID Door Lock Security: Provides secure and contactless home access using RFID cards or RFID tags, allowing only authorized users to unlock the door.
+- **RFID Door Lock Security** – Secure home access using RFID cards or tags.
 
--  Smart Fence & Rooftop Lighting: Uses an LDR sensor to automatically turn on the fence and rooftop lights when the ambient light intensity falls below the threshold value of **100**, improving safety and energy efficiency.
+- **Smart Fence & Rooftop Lighting** – Automatically turns ON lights using the LDR sensor when ambient light is low.
 
--  Garage Parking Assistant: Utilizes an Ultrasonic Sensor to measure the distance between the vehicle and the garage wall. When the distance reaches **2.9 cm or less**, the buzzer alerts the driver for safer parking.
+- **Garage Parking Assistant** – Uses an Ultrasonic Sensor and buzzer to assist parking when the vehicle is too close.
 
--  Temperature & Humidity Monitoring: Continuously monitors environmental conditions using the DHT11 sensor. The **12V DC fan** automatically turns on when the temperature exceeds **30°C** or the humidity exceeds **60%**.
+- **Temperature & Humidity Monitoring** – Monitors environmental conditions using the DHT11 sensor.
 
--  MQ-5 Gas Leak Detection: Detects harmful and flammable gases in the kitchen area. If the gas sensor value exceeds the threshold of **2000**, the system activates the buzzer and displays an alert status.
+- **Automatic 12V DC Fan Control** – Turns ON automatically when temperature exceeds **30°C** or humidity exceeds **60%**.
 
--  Blynk IoT Mobile Application: Enables users to monitor real-time temperature, humidity, gas levels, and system status through a smartphone using the Blynk IoT platform.
+- **MQ-5 Gas Leak Detection** – Detects harmful gases and activates the buzzer with an alert message.
 
--  Remote Light Control: Allows users to remotely turn ON or OFF the home lighting system from anywhere using the Blynk mobile application over a Wi-Fi connection.
+- **Blynk IoT Mobile Application** – Provides real-time monitoring of temperature, humidity, gas levels, and device status.
 
--  LCD Real-Time Display: Displays temperature, humidity, gas values, fan status, light status, and gas safety alerts directly on the LCD screen for quick local monitoring.
+- **Remote Light Control** – Allows users to turn indoor lights ON or OFF remotely through the Blynk app.
 
----
+- **LCD Real-Time Display** – Displays temperature, humidity, gas level, fan status, and light status.
 
 
 ---
