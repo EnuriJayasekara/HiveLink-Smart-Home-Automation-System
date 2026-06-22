@@ -208,6 +208,15 @@ Access the complete project documents below:
 
 ---
 
+## 👨‍💻 Project Lead
+
+**EnuriJayasekara**  
+**Group Leader – Y1S1Mtr02**
+
+Led the design, development, and integration of the HiveLink Smart Home Automation System. Responsible for project coordination, DHT11 temperature & humidity monitoring, automatic 12V DC fan control, LCD display implementation, system integration, testing, and project documentation.
+
+---
+
 ### 📚 Developed For
 
 This project was developed as part of the **IT1140 – Introduction to Computer Systems** module at the **Sri Lanka Institute of Information Technology (SLIIT)**.
